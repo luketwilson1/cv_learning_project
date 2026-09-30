@@ -1,0 +1,6 @@
+"filename","split","annotation","purpose"
+"hard_negative_chair__IMG_1874.jpg","train","empty","chair_hard_negative"
+"hard_negative_chair__IMG_1875.jpg","train","empty","chair_hard_negative"
+"hard_negative_chair__IMG_1876.jpg","train","empty","chair_hard_negative"
+"hard_negative_chair__IMG_1877.jpg","train","empty","chair_hard_negative"
+"hard_negative_chair__IMG_1878.jpg","test","empty","chair_hard_negative"

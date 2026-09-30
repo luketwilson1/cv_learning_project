@@ -1,0 +1,17 @@
+path: C:/Users/luket/Documents/badger_cv_interview/data
+train: images/train
+val: images/val
+
+names:
+  0: flour
+  1: basmati_rice
+  2: black_tea
+  3: chicken_flavored_stuffing_mix
+  4: classic_roast_ground_coffee
+  5: garlic_bread_sticks
+  6: instant_mashed_potatoes
+  7: traditional_refried_beans
+  8: magic_treasures_cereal
+  9: raw_honey
+  10: plain_bread_crumbs
+  11: creamy_peanut_butter
